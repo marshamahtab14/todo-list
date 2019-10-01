@@ -1,0 +1,6 @@
+<ul>
+    <li *ngFor=" let i of items; let ind=index">
+        {{i}}
+        <span (click)="removeItem (ind)"> x </span>
+    </li>
+</ul>

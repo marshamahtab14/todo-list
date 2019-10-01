@@ -1,0 +1,29 @@
+
+  .addItem button {
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    text-shadow: 0px 1px 3px #666666;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 33px;
+    background: #a05f96;
+    padding: 10px 20px 10px 20px;
+    border: solid #1f628d 0px;
+    text-decoration: none;
+  }
+  
+  .addItem button:hover {
+    background: #a05f96;
+    text-decoration: none;
+  }
+  .addItem {
+        text-align: center;
+        margin: 100px auto;
+  }
+  .addText {
+      width: 80%;
+      height: 30px;
+      padding: 5px;
+      font-size: 24px;
+  }

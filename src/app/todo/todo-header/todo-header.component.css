@@ -1,0 +1,11 @@
+.header {
+    background-color: #b2e4d5;
+    
+     height: 200px;
+}
+.hello{
+    font-family: 'Homemade Apple', cursive;
+    text-align: center;
+    padding-top: 65px;
+    padding-left: auto; 
+}

@@ -1,0 +1,17 @@
+ul {
+    list-style: none;
+    font-size: 24px;
+    color: #2f416d;
+    margin-right: 40px;
+}
+li{
+    background-color: #b18ea6;
+    padding: 10px 0px;
+    margin: 30px;
+}
+span {
+    cursor: pointer;
+    position: relative;
+    float: right;
+    margin-right: 20px;
+}
